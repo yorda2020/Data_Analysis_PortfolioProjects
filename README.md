@@ -1,7 +1,6 @@
 
 
 # Data Analysis Portfolio Project
-
 This is a data analysis portfolio project. The purpose of this project is to demonstrate my skills in data analysis and visualization, and to showcase my ability to communicate insights from data.
 
 ## Data
